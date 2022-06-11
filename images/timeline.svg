@@ -5,7 +5,7 @@
         <g id="timeline">
             <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="955" height="419"></rect>
             <polygon id="Fill-3" fill="#79AD31" fill-rule="nonzero" points="203.284 151.407 303.742 151.407 303.742 106.755 203.284 106.755"></polygon>
-            <polygon id="Fill-4" fill-opacity="0.5" fill="#79AD31" fill-rule="nonzero" points="581.143 285.135 630.143 285.135 630.143 240.713 581.143 240.713"></polygon>
+            <polygon id="Fill-4" fill="#79AD31" fill-rule="nonzero" points="581.143 285.135 630.143 285.135 630.143 240.713 581.143 240.713"></polygon>
             <polyline id="Fill-5" fill-opacity="0.5" fill="#79AD31" fill-rule="nonzero" points="706.005 285.246 679.855 285.173 679.731 329.722 705.881 329.795 706.005 285.246"></polyline>
             <polygon id="Fill-6" fill-opacity="0.5" fill="#79AD31" fill-rule="nonzero" points="630.143 329.758 680.033 329.758 680.033 285.208 655.088 307.483"></polygon>
             <polygon id="Fill-7" fill="#7B3294" fill-rule="nonzero" points="303.742 196.163 504.882 196.163 504.882 151.373 303.742 151.373"></polygon>
